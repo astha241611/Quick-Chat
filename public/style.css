@@ -1,0 +1,12 @@
+body{
+    margin-left: 10px;
+}
+.chat{
+    background-color: rgb(196, 220, 235);
+    padding: 20px;
+    display: inline-block;
+}
+.msg{
+    background-color: rgb(139, 161, 175);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
